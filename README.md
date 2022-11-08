@@ -2,7 +2,7 @@
 
 ## Introduction :notebook:
 
-This repository contains all the work done for the Sysadmin/SRE track at Holberton School. It is written in Bash, Puppet, and other tools/languages.
+This repository contains all the work done for the Sysadmin/SRE track at ALX. It is written in Bash, Puppet, and other tools/languages.
 
 ## Table of Contents :open_file_folder:
 
@@ -58,7 +58,7 @@ This repository contains projects on:
 In your terminal, git clone the directory with the following command:
 
 ```sh
-git clone https://github.com/Esteban1891/[Github project directory]
+git clone https://github.com/Anemachiso/[Github project directory]
 ```
 
 ## Usage
